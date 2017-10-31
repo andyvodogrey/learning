@@ -1,5 +1,5 @@
 # learning
 
-[] edit file
+[x] edit file
 
-[] add new file
+[x] add new file
